@@ -8,7 +8,7 @@ type numero int
 
 var x numero
 var y int
-
+go 
 func main() {
 
 	fmt.Println(x)
