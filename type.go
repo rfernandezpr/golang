@@ -19,7 +19,7 @@ func main() {
 	fmt.Printf("%T\n", b)
 
 	//conversion de tipos
-	a = b
+	a = int(b)
 	fmt.Println(a)
 	fmt.Printf("%T\n", a)
 }
