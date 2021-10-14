@@ -12,5 +12,6 @@ func main() {
 		} 
 		fmt.Println(i)
 		i++
+		//teste
 	}
 }
